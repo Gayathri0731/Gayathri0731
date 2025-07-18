@@ -35,10 +35,3 @@ src="https://img.shields.io/github/followers/Gayathri0731?logo=github&style=for-
 
 <a href="http://www.github.com/Gayathri0731"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gayathri0731&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Gayathri0731/Python-Full-Stack" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gayathri0731&repo=Python-Full-Stack&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Gayathri0731/Movie_recommendation-FrontEnd" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gayathri0731&repo=Movie_recommendation-FrontEnd&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Gayathri0731/Python-ChatApp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gayathri0731&repo=Python-ChatApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/Gayathri0731/Big_Mart_Sales_Prediction" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gayathri0731&repo=Big_Mart_Sales_Prediction&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
